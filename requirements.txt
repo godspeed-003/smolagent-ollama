@@ -1,0 +1,9 @@
+smolagents
+gradio
+transformers
+requests
+markdownify
+duckduckgo_search
+pillow
+pytz
+pyyaml
